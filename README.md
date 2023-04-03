@@ -1,19 +1,4 @@
-# Prework Study Guide Webpage hello
-
-
-## Usage
-
-## Contributing
-
-## Tests
-
-## License
-
-## Questions
-
-## Description
-
-
+# Prework Study Guide Webpage final test
 
 
 
